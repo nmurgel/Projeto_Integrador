@@ -1,0 +1,11 @@
+Ata 21/08/2019
+
+1 - Foi encontrado uma API do terrabrasilis (é a plataforma do inpe sobre dados de desmatamento) onde nela acreditamos que possamos extrair microdados geograficos de desmatamento. (ANDRÉ)
+
+2 - Foi proposto por Filho de Ed e Tapajós que a partir dos municipios com maiores taxas de desmatamento o grupo poderá responder as possíveis hipóteses levantadas na planilha 'Acompanhamento projeto integrador'. No dia 22/08/2019 na hora do recreio É IMPRESCINDIVEL A DIVISÃO DE TAREFAS A SER ACORDADA PELO GRUPO!!!!!
+
+3 - Foi identificado o portal de queimadas do INPE onde poderá ser explorado a existencia de dados históricos sobre focos de incêndio para relacionar com os dados.
+
+4 - O dataset DETER-B onde possúi dados dos estado/municipios/data/evento/area desmatada/unidade de conservação/ (com o nome dos municipios é possível ligar com a base que o Hector tem de dim_geográfico e possível tabela fato!)
+
+5 - Sabádo ver sobre o desafio que precisa ser entregue
